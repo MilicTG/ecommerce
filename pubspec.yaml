@@ -37,7 +37,9 @@ dependencies:
   firebase_auth: ^3.4.1 # for authentication
   cloud_firestore: ^3.2.1 # for database
   firebase_storage: ^10.3.1 #for storage
-  flutterfire_ui: ^0.4.2+2 # for pre-built uis
+  flutterfire_ui: ^0.4.2+2
+  riverpod: ^1.0.3
+  flutter_riverpod: ^1.0.4
 
 dev_dependencies:
   flutter_test:
